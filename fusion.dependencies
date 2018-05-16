@@ -1,10 +1,11 @@
 [
   {
-    "repository": "CarbonROM/android_kernel_google_marlin",
+    "remote": "FusionDevices", 
+    "repository": "FusionDevices/android_kernel_google_marlin",
     "target_path": "kernel/google/marlin"
   },
   {
-    "remote": "lineage",
+    "remote": "github",
     "repository": "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "lineage-15.1"
